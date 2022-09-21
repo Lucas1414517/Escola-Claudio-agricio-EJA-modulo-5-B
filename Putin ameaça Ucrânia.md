@@ -1,6 +1,6 @@
 ---
 created: 2022-09-21T20:39:34-03:00
-modified: 2022-09-21T20:55:22-03:00
+modified: 2022-09-21T20:57:56-03:00
 ---
 
 # Putin ameaça Ucrânia
@@ -10,7 +10,7 @@ modified: 2022-09-21T20:55:22-03:00
 
 ---
 
- # **ameaça nuclear feita pelo presidente russo, Vladimir Putin**
+ # **Ameaça nuclear feita pelo presidente russo, Vladimir Putin**
 em discurso à nação nesta quarta-feira (21/09), foram recebidas com fortes críticas no Ocidente e vistas como um ato de desespero do chefe de governo em Moscou.
 
 # **Ocidente condena ameaça nuclear de Putin**
